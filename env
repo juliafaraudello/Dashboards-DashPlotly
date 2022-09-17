@@ -1,0 +1,4 @@
+virtualenv dockerFlaskDash
+/Users/juliafaraudello/MS-dash/dockerFlaskDash/Scripts/activate 
+source dockerFlaskDash/bin/activate
+pip3 install -r requirements.txt 

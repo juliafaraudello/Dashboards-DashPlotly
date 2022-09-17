@@ -1,0 +1,9 @@
+Resources:
+  MSDash:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: dashboards/benchmarkingms/tabNDVIAcumulado.searchFarms
+      CodeUri: /home/santiagord/Desktop/geoagro/MS-Dash
+      Runtime: python2.7
+      Environment:
+        Variables: {}

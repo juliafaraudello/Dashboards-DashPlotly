@@ -1,0 +1,9 @@
+un error 
+NameError: name 'routes_pathname_prefix' is not definedq
+se soluciono instalando dash==1.9.1
+
+
+cuando no te anda la autenticacion en google 
+https://stackoverflow.com/questions/27785375/testing-flask-oauthlib-locally-without-https/27785830
+
+export OAUTHLIB_INSECURE_TRANSPORT=1
