@@ -14,4 +14,10 @@ Will find:
 
 Below you can see some instances of the dashboard:
 
+<p><img alig="center" src="dash.gif" /></p>
+
 <p><img alig="center" src="Sep-17-2022 20-40-48.gif" /></p>
+
+<p><img alig="center" src="Serie temporal.gif" /></p>
+
+<p><img alig="center" src="ranking.gif" /></p>
